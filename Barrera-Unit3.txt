@@ -2,13 +2,13 @@
 <html>
 	<head>
 	<title> Andy Barrera </title>
-	<style>
-		h1{
-	
+
 	</head>
 <body>
-<header>
-<img> To be decided </img>
+<h1><img src="TITLE3.jpg"></h1>
+
+</body>
+</html>
 
 
 
